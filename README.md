@@ -1,2 +1,2 @@
 # github-demo
-A simple demo repository
+A simple test repository created with command line.
