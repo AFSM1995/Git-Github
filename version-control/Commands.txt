@@ -1,0 +1,3 @@
+automatic file compare
+windows "FC" - file compare
+mac/linux "diff"
